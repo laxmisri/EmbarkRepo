@@ -1,0 +1,25 @@
+
+
+Version:	3.8
+CmdLine:	D:\Laxmi\Java_Program\Embark\EmbarkExecutable.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Laxmi\Java_Program\Embark\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.7.0_79
+Check launcher:	C:\Program Files\Java\jre7\bin\javaw.exe (OK)
+Match:		1.7.0_79
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.7
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_21
+Ignore:		1.7.0_21
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_79
+Ignore:		1.7.0_79
+Runtime used:	1.7.0_79 (64-bit)
+Launcher:	C:\Program Files\Java\jre7\bin\javaw.exe
+Launcher args:	-jar "D:\Laxmi\Java_Program\Embark\EmbarkExecutable.exe"
+Args length:	56/32768 chars
+Exit code:	0
